@@ -1,18 +1,35 @@
-# PROJECT.md - Template
+# Area Title
 
-## Nome do Projeto
-*Substituir pelo nome do projeto*
+## Overview
+A brief description of this area.
 
-## Estado
-* `Ideia` | `Ativo` | `Em Pausa` | `Concluído` | `Arquivado`
+## Objectives
+- Objective 1
+- Objective 2
 
-## Objetivo
-*Descrever numa frase clara e concisa o que se pretende alcançar com este projeto.*
+## Scope
+- In-scope items
+- Out-of-scope items
 
-## Próximos Passos
-- [ ] Ação imediata 1
-- [ ] Ação imediata 2
-- [ ] Ação imediata 3
+## Projects within this Area
+- Project 1: Brief description
+- Project 2: Brief description
 
-## Notas
-*Links, pensamentos, referências ou qualquer outra informação relevante.*
+## Deliverables
+- Deliverable 1
+- Deliverable 2
+
+## Timeline
+- Phase 1: Start Date - End Date
+- Phase 2: Start Date - End Date
+
+## Resources
+- Team members
+- Tools and technologies
+
+## Risks
+- Risk 1
+- Risk 2
+
+## Notes
+Any additional notes.
