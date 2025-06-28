@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+*.egg
+*.egg-info/
+.pytest_cache/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Rust
+target/
+
+# C/C++
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+temp/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
