@@ -1,19 +1,19 @@
-# Area Title
+# Título da Área
 
-## Overview
-A brief description of this area.
+## Visão Geral
+Uma breve descrição desta área.
 
-## Objectives
-- Objective 1
-- Objective 2
+## Objetivos
+- Objetivo 1
+- Objetivo 2
 
-## Scope
-- In-scope items
-- Out-of-scope items
+## Âmbito
+- Itens no âmbito
+- Itens fora do âmbito
 
-## Projects within this Area
-- Project 1: Brief description
-- Project 2: Brief description
+## Projetos nesta Área
+- Projeto 1: Breve descrição
+- Projeto 2: Breve descrição
 
-## Notes
-Any additional notes.
+## Notas
+Quaisquer notas adicionais.
